@@ -1,4 +1,4 @@
-# TodoApp-Nazib
+# TodoApp-Lutfi
 
 Aplikasi **Todo App** merupakan aplikasi pengelolaan daftar kegiatan atau tugas harian yang dibangun menggunakan React Native dengan Expo dan Firebase Firestore sebagai database. Aplikasi ini dibuat untuk membantu pengguna mencatat, melihat, mengubah, dan menghapus daftar kegiatan secara praktis.
 
@@ -145,9 +145,9 @@ Contoh data:
 
 ## 8. Pengembang
 
-**Nama:** Mochammad Nazib Hasannudin
+**Nama:** lutfi alfiqri
 
-**NPM:** 41155050240027
+**NPM:** 411550502400002
 
 **Nama Proyek:** TodoApp-Nazib
 
